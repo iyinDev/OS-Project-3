@@ -21,8 +21,6 @@ Use the **View > Panels** menu on the top tool bar to segment your screen.
 Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
 
 ### Authors
-// Authors 
-// <Izaac Ballard> <Noah Lee> <James Fisher> <Dion Simmons> <Akosua Wordie>
-// <Myles Bostic> <Morenike Onifade> <Lea Clements> <Teanna Barrett> <Iyinoluwa Tugbobo> 
-// <Kobe Petrus> <Allan Shane Oliver> <Deron Moore>
-
+ Izaac Ballard   Noah Lee   James Fisher   Dion Simmons   Akosua Wordie 
+ Myles Bostic   Morenike Onifade   Lea Clements   Teanna Barrett   Iyinoluwa Tugbobo  
+ Kobe Petrus   Allan Shane Oliver   Deron Moore 
